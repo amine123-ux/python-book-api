@@ -1,0 +1,17 @@
+# Java / Maven
+target/
+*.class
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local runtime databases and secrets
+*.db
+*.sqlite
+*.sqlite3
+.env
